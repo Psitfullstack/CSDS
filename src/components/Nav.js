@@ -4,7 +4,7 @@ function Nav(){
 
     return(
         <>
-         <div className="container">
+         <div className="container1">
           <nav>
             <ul>
                 <li><a href="">Home</a></li>
